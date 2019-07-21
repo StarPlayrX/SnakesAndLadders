@@ -12,7 +12,7 @@ import Foundation
 /// Takeaways: the player who reaches the most ladders and least amount of snakes usually wins.
 /// The game loop displays a very accurate game simulation. The winner must finish the game with a perfect roll.
 /// Oddity, when this code is run in Playgrounds, its turn_counter is not accurate.
-/// When run in Xcode or command line, it displays currently
+/// When run in Xcode or command line, it displays correctly
 /// This code should runs on Mac as well as Linux. Requirements Swift 5
 
 //Here we need to have a Random function that it supports
