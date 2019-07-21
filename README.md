@@ -16,3 +16,5 @@ You have permission to download and run this code on your local machine.
 You do not have permission to publish this code or use it as for a solution on a coding test.
 
 This code is subject to Copyright.
+
+This was from a coding test that I took. The game works great. And the code is clean.
