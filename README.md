@@ -18,3 +18,5 @@ You do not have permission to publish this code or use it as for a solution on a
 This code is subject to Copyright.
 
 This was from a coding test that I took. The game works great. And the code is clean.
+
+It is a fork (from another repository that I own.) I decided to consolidate my other accounts.
